@@ -1,2 +1,2 @@
-console.log("hello world");
-alert("hell world");
+#!/usr/bin/env node
+import "./src/command.js";
