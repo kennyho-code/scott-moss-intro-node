@@ -16,5 +16,3 @@ export const insert = async (data) => {
   await saveDB(db);
   return data;
 };
-
-console.log(getDB());
